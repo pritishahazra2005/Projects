@@ -1,0 +1,20 @@
+Job Title: Senior Software Engineer - 2
+
+Location: Bangalore, India
+Job Type: Full-time
+
+Job Description:
+We are looking for a Senior Software Engineer - 2 to join our backend engineering team. You will work on scalable web applications, contribute to architecture decisions, and improve system performance. You should be proficient in Python, Django, RESTful APIs, and cloud services like AWS.
+
+Responsibilities:
+- Design, develop, and maintain backend services.
+- Write clean, scalable code using Python and Django.
+- Collaborate with frontend developers and product managers.
+- Ensure the best possible performance, quality, and responsiveness of applications.
+
+Required Skills:
+- 5+ years of software development experience.
+- Strong proficiency in Python and Django.
+- Experience with REST APIs and PostgreSQL.
+- Familiarity with Docker, Kubernetes, and CI/CD tools.
+- Strong problem-solving and communication skills.
