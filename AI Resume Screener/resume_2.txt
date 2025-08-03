@@ -1,7 +1,0 @@
-Name: Priya Sharma
-Email: priya.sharma@xyz.com
-Phone: +91-99988-77665
-Experience: 2 years as a Business Analyst
-Skills: SQL, Excel, Power BI, Tableau, Data Visualization
-Education: MBA in Business Analytics
-Certifications: Google Data Analytics

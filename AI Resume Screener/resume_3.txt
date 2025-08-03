@@ -1,7 +1,0 @@
-Name: Amit Roy
-Email: amit.roy@abc.com
-Phone: +91-98765-43210
-Experience: 4 years as a Backend Developer
-Skills: Java, Spring Boot, Microservices, REST API, AWS, Docker
-Projects: E-commerce backend, Payment gateway integration
-Education: B.Tech in Computer Engineering
